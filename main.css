@@ -1,0 +1,10 @@
+@import url(webfonts/stylesheet.css);
+
+body {
+  font: normal 14px 'Noto Sans Thai UI', sans-serif;
+  /* margin-top: 50px; */
+}
+
+.container {
+  position: fixed;
+}
